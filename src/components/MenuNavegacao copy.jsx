@@ -39,7 +39,7 @@ function MenuNavegacao(){
                     </li>
                     <li className="item-menu-navegacao" onClick={mudarParaComunidade}>
                         <img className="img-menu-navegacao" 
-                         src="../src/assets/icone-comunidade.png">
+                         src="./src/assets/icone-comunidade.png">
                         </img>
                         <a href="#" className="texto-menu-navegacao">Comunidade</a>
                     </li>
